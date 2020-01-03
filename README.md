@@ -1,6 +1,6 @@
 # Website - Simple DevOps Project
 
-DevOps project from [Simple DevOps Project](http://hedge-ops.com/devops-project/).
+DevOps project from page: [hedge-ops](http://hedge-ops.com/devops-project/).
 
 ## Phase 1: Simple Website
 1. Create an account on https://github.com/
